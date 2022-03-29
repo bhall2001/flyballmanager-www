@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Flyball Manager was designed from the ground up to make scoring
+        tournaments as easy as we could thing.
       </>
     ),
   },
@@ -18,24 +18,24 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Focus on your team. We&apos;ll take care of all the hard parts of
+        running the tournament.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Online Integratio',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Scoring integration with online site. Communicate race status to
+        participants simply by scoring your tournament.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
