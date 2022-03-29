@@ -9,10 +9,7 @@ export default function HomepageDownload() {
       <div className="container">
         <h1 className="hero__subtitle">Download Flyball Manager</h1>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
+          <Link className="button button--secondary button--lg" to="/docs/docs">
             Download
           </Link>
         </div>
