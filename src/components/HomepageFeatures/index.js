@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
@@ -10,17 +10,17 @@ const FeatureList = [
     description: (
       <>
         Flyball Manager was designed from the ground up to make scoring
-        tournaments as easy as we could thing.
+        tournaments as easy as we could think.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Go Ahead, Have Fun',
     Svg: require('@site/static/img/home/puppy-love.svg').default,
     description: (
       <>
-        Focus on your team. We&apos;ll take care of all the hard parts of
-        running the tournament.
+        Scoring becomes less of a burden. Take time to enjoy running your dog.
+        Junior Handlers make great scorekeepers!
       </>
     ),
   },
@@ -51,8 +51,6 @@ function Why({ Svg, title, description }) {
 }
 
 function Features() {
-  const { withBaseUrl } = useBaseUrlUtils();
-
   return (
     <>
       <div className={clsx('col col--2')}></div>

@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Flyball Manager',
   tagline: 'Planning, Scoring and Reporting',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://thunderous-rolypoly-7aaf6e.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
