@@ -26,8 +26,44 @@ const sidebars = {
     },
   ],
    */
-  docsSidebar: ['docs'],
-  tutorialSidebar: ['tutorial/intro'],
+  docsSidebar: [
+    'introduction',
+    {
+      type: 'category',
+      label: 'Tournament',
+      collapsed: true,
+      items: [
+        'tournament/info',
+        'tournament/entries',
+        'tournament/divisions',
+        'tournament/seedChart',
+        'tournament/judges',
+      ],
+    },
+    'clubs',
+    'teams',
+    'schedule',
+    'scoring',
+    'ringsideDisplay',
+    'placements',
+    'forms',
+    'faq',
+    'releaseNotes',
+    {
+      type: 'category',
+      label: 'Project',
+      collapsed: true,
+      items: ['mdx', 'styleGuide'],
+    },
+  ],
+  tutorialSidebar: [
+    'tutorial/info',
+    'tutorial/entries',
+    'tutorial/judges',
+    'tutorial/divisions',
+    'tutorial/seedChart',
+    'tutorial/createSchedule',
+  ],
 };
 
 module.exports = sidebars;

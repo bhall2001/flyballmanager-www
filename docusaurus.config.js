@@ -52,13 +52,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'docs',
+            docId: 'introduction',
             position: 'left',
             label: 'Docs',
           },
           {
             type: 'doc',
-            docId: 'tutorial/intro',
+            docId: 'tutorial/info',
             position: 'left',
             label: 'Tutorial',
             to: '/docs/tutorial',
