@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Flyball scoring, planning and reporting software."
+      description="Flyball planning, scoring and communication software."
     >
       <HomepageHeader />
       <main>
