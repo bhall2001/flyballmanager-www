@@ -4,7 +4,10 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageBenefits from '@site/src/components/HomepageBenefits';
+import HomepageAttribution from '../components/HomepageAttribution';
+import HomepageFeatures from '../components/HomepageFeatures';
+import HomepageDownload from '../components/HomepageDownload';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -35,7 +38,10 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
+        <HomepageBenefits />
         <HomepageFeatures />
+        <HomepageDownload />
+        <HomepageAttribution />
       </main>
     </Layout>
   );
