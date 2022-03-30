@@ -10,7 +10,7 @@ const BenefitList = [
     description: (
       <>
         Flyball Manager was designed from the ground up to make scoring
-        tournaments as easy as we could think.
+        tournaments as easy as we could imagine.
       </>
     ),
   },
@@ -20,7 +20,7 @@ const BenefitList = [
     description: (
       <>
         Scoring becomes less of a burden. Take time to enjoy running your dog.
-        Junior Handlers make great scorekeepers!
+        PS. Junior Handlers make great scorekeepers!
       </>
     ),
   },
