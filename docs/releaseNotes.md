@@ -7,6 +7,18 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.5.2
+
+* no longer in beta.
+* scoring screen shows number of heats for entries
+* adds realtime heatlamps to online on deck
+* add team, club and division reports
+* changed radio buttons to switches
+* added ability to publish tournament and schedule
+* add estimate race times to online schedule
+* fix bug with gap calculations when building schedule
+* add button to set tournament start time for race 1
+
 ## 20.4.1 (preview)
 
 * Schedules show difference in minutes
