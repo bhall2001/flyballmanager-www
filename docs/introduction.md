@@ -5,7 +5,7 @@ sidebar_label: Introduction
 slug: /
 ---
 
-# Welcome to Flyball Manager! (Preview)
+# Welcome to Flyball Manager!
 
 NOTE: This documentation is for the new version of Flyball Manager being released in September 2021.
 
