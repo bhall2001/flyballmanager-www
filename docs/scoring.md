@@ -56,14 +56,6 @@ Adding a 10-key pad to a laptop can be done by either using an external keyboard
 
 A team that interferes with another team is designated by entering the letter `<i>` in the race time field. This enters **INF** for the race time of the team as well as puts an **I** in the other team result column. When interference occurs the judge will assign an estimated time when all heats are completed.
 
-:::info
-NAFA Rules Section 8.3f
-
-"In the event of interference, the judge will assign an estimated time to the team that was interfered with. The time will be marked as estimated and **will not be used to determine placement.**"
-
-No placement points are assigned to heats where an interference occurs.
-:::
-
 ## Navigating between races
 
 There are times that prior or future race scoring screens will need to be accessed. There are a number of ways to navigate to races on the scoring screen.
