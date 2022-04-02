@@ -9,17 +9,17 @@ export default function HomepageDownload() {
         <h1 className="hero__subtitle">Download Flyball Manager</h1>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
-            href={require('/docs/FBM_Mac_20.5.2.zip').default}
+            href={require('/docs/FBM_Mac_20.5.3.zip').default}
             className="button button--secondary button--lg"
-            download="FBM_Mac_20.5.2.zip"
+            download="FBM_Mac_20.5.3.zip"
           >
             macOS
           </a>
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a
-            href={require('/docs/FBM_Windows_20.5.2.zip').default}
+            href={require('/docs/FBM_Windows_20.5.3.zip').default}
             className="button button--secondary button--lg"
-            download="FBM_Windows_20.5.2.zip"
+            download="FBM_Windows_20.5.3.zip"
           >
             Windows
           </a>
