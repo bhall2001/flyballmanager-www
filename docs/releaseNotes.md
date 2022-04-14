@@ -7,11 +7,26 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 21.0.2
+
+When you run a tournament, you find things that are not just quite right...
+
+* fixed lots of little bugs with scoring workflow
+* added version check notifications
+* increase font size for race number on ringside display
+* fixed issue where race status was not updating correctly at end of tournament
+  
+## 21.0.1
+
+* update database schema
+* performance enhancements
+* better poor network handling
+
 ## 20.5.2
 
 * no longer in beta.
 * scoring screen shows number of heats for entries
-* adds realtime heatlamps to online on deck
+* adds real-time heat lamps to online on deck
 * add team, club and division reports
 * changed radio buttons to switches
 * added ability to publish tournament and schedule
