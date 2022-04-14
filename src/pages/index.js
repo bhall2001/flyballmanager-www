@@ -7,6 +7,7 @@ import styles from './index.module.css';
 import HomepageBenefits from '@site/src/components/HomepageBenefits';
 import HomepageAttribution from '../components/HomepageAttribution';
 import HomepageFeatures from '../components/HomepageFeatures';
+import HomepagePricing from '../components/HomepagePricing/HomepagePricing';
 import HomepageDownload from '../components/HomepageDownload';
 
 function HomepageHeader() {
@@ -40,6 +41,7 @@ export default function Home() {
       <main>
         <HomepageBenefits />
         <HomepageFeatures />
+        <HomepagePricing />
         <HomepageDownload />
         <HomepageAttribution />
       </main>
