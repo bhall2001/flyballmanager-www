@@ -1,6 +1,5 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './styles.module.css';
 
 function Pricing() {
   return (
@@ -10,9 +9,10 @@ function Pricing() {
           <div className="container">
             <div className="row">
               <div className={clsx('col col--12')}>
-                {/* <div className="columns"> */}
                 <ul className="price">
-                  <li className="header">Pricing</li>
+                  <li className="header" style={{ backgroundColor: '#2e8555' }}>
+                    Pricing
+                  </li>
                   <li className="grey">$10 / day</li>
                   <li>Generate Schedule</li>
                   <li>Intuitive Scoring Interface</li>
@@ -24,7 +24,6 @@ function Pricing() {
                   <li>Generates NAFA Scoring File</li>
                   <li>Runs on Windows and Mac</li>
                 </ul>
-                {/* </div> */}
               </div>
             </div>
           </div>
