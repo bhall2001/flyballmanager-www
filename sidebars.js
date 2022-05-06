@@ -32,6 +32,7 @@ const sidebars = {
     'schedule',
     'scoring',
     'ringsideDisplay',
+    'online',
     'placements',
     'forms',
     'faq',
