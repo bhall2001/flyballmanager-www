@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 21.0.5
+
+- added network status indicator
+- changed name of completed C.2 forms button to help with confusion on when to use the form
+
 ## 21.0.4
 
 - remove extra characters when importing entries from Excel
