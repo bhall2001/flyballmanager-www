@@ -17,7 +17,7 @@ The online website provides realtime updates of the tournament schedule showing 
 
 Online integration is not enabled by default. The integration **REQUIRES** a good, reliable wifi connection. If the device running Flyball Manager looses it's network connection to ondeckmanager.com realtime updates will stop.
 
-When the tournament date is close feel free to turn on the integration. To see the online schedule you must have generated a schedule.
+When the tournament date is close feel free to turn on the integration. To see the schedule online there must be a schedule generated.
 
 ![Online Switches](/img/settings-online-switches.svg)
 
