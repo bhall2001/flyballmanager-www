@@ -7,9 +7,7 @@ slug: /
 
 # Welcome to Flyball Manager!
 
-NOTE: This documentation is for the new version of Flyball Manager being released in September 2021.
-
-Thank you for your interest in Flyball Manager part of the On Deck Manger suite of products. My goal with this project is to bring a robust, modern scoring application to the sport we love. Flyball Manager is an evolving project. I have a lot of great ideas for the software. Your feedback is VERY welcomed.
+Thank you for your interest in Flyball Manager part of the [ondeckmanager.com](https://www.ondeckmanager.com) suite of products. My goal with this project is to bring a robust, modern scoring application to the sport we love. Flyball Manager is an evolving project. I have a lot of great ideas for the software. Your feedback is VERY welcomed.
 
 \- Bob
 

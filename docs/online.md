@@ -38,14 +38,14 @@ If the network status is red, confirm the scoring machine has a connection to th
 
 ## Updating on deck status
 
-Once the scoring machine is setup to conenct to the internet anda schdule is published, on deck status updates are automatically communicated to ondeckmanager.com.
+Once the scoring machine is setup to conenct to the internet and a schdule is published, on deck status updates are automatically communicated to ondeckmanager.com.
 
 Flyball manager updates ondeckmanager.com after each heat with the status of the winner of the heat. ondeckmanger.com displays heat lamps for the current race in the ring.
 
 After entering the race times for the last heat of a race, Flyball Manager will ask if you would like to move the online display to the next race. Click `Yes`. This will update ondeckmanger.com that the current race has completed and the next race is moving into the ring.
 
 :::tip
-Moving the online display to the next race has no effect on scoring the current race. This indicator will only update the online status to indicate that the next race is moving into the ring. Once the online display is moved to the next race, continue scoring the current race
+Moving the online display to the next race has no effect on scoring the current race. This indicator will only update the online status to indicate that the next race is moving into the ring. Once the online display is moved to the next race, continue scoring the current race.
 :::
 
 Ondeckmanager.com uses realtime updates to send all devices the update in real time.
@@ -60,7 +60,7 @@ Sometimes the online status may get out of sync with the actual racing status. T
 
 Not to worry. Flyball Manager allows the Scorekeeper to override the online status of races. On the Scoring screen on the right side is the online schedule status. This scrolling list shows the status of each race in the schedule.
 
-The status of a race can be updated by doubleclicking the race needing the update. The next screen allows you to set the race status for the current race. Once the status is set to what it should be, simply close the window.
+The status of a race can be updated by double-clicking the race needing the update. The next screen allows you to set the race status for the current race. Once the status is set to what it should be, simply close the window.
 
 :::info
 Only 1 race can have a status of "Racing", "On Deck" or "In the Hole". If you set a race to one of these statuses, any race with the same status will be reset to not have a status.
