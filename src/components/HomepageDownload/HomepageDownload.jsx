@@ -7,20 +7,20 @@ export default function HomepageDownload() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__subtitle">Download Flyball Manager</h1>
-        <p>v21.0.5</p>
+        <p>v21.0.6</p>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
-            href={require('/docs/FBM_Mac_21.0.5.zip').default}
+            href={require('/docs/FBM_Mac_21.0.6.zip').default}
             className="button button--secondary button--lg"
-            download="FBM_Mac_21.0.5.zip"
+            download="FBM_Mac_21.0.6.zip"
           >
             macOS
           </a>
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a
-            href={require('/docs/FBM_Windows_21.0.5.zip').default}
+            href={require('/docs/FBM_Windows_21.0.6.zip').default}
             className="button button--secondary button--lg"
-            download="FBM_Windows_21.0.5.zip"
+            download="FBM_Windows_21.0.6.zip"
           >
             Windows
           </a>
