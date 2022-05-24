@@ -11,15 +11,15 @@ The official NAFA Form C.2 can be found in the Forms section of Flyball Manager.
 
 ### How to print
 
-The form screen allows for printing of C2 forms individually, in groups, or for the entire tournament. To select an Individual team, click once on the team desired to highlight, then click the "Print Form C.2" button.
+The form screen allows for printing of C2 forms individually, in groups, or for the entire tournament. To select an Individual team, click once on the team desired to highlight, then click the "Tournament C.2 Form" button.
 
-To print all Form C.2s for a tournament, click the first team in the list to highlight. Then scroll to the bottom of the team list. Hold down the `<shift>` key and click the last team listed. All teams in the list will be highlighted. Click the "Print Form C.2" button to print all the forms for the tournament.
+To print all Form C.2s for a tournament, click the first team in the list to highlight. Then scroll to the bottom of the team list. Hold down the `<shift>` key and click the last team listed. All teams in the list will be highlighted. Click the "Tournament C.2 Form" button to print all the forms for the tournament.
 
-Using standard selecting methods of lists for your computer, sub-sets of teams can be highlighted either in groups or individually. Click the "Print Form C.2" button will print the form for the highlighted teams.
+Using standard selecting methods of lists for your computer, sub-sets of teams can be highlighted either in groups or individually. Click the "Tournament C.2 Form" button will print the form for the highlighted teams.
 
-![Form C.2](/img/c2-form-top.png)
+![Form C.2](/img/c2-form-top.svg)
 ...
-![Form C.2 Footer](/img/c2-form-footer.png)
+![Form C.2 Footer](/img/c2-form-footer.svg)
 
 ### 1. Tournament info
 
@@ -47,11 +47,11 @@ The far right of the heat is used to score the races. The scorer will circle the
 
 Used to record the team's entered division, tournament placement in the division and best time for the tournament.
 
-## Completed C.2 form
+## After Tournament C.2 Data
 
 Flyball Manager is able to print completed C.2 Forms. The completed C.2 adds all the data entered for a team in a tournament. The completed form can be used to validate data entered during the tournament and as a take-away for team captains.
 
-Printing completed forms is the same process as for blank C.2 forms. Simply select the teams to print and click on the `C.2 Completed Form` button.
+Printing completed forms is the same process as for blank C.2 forms. Simply select the teams to print and click on the `After Tournament Data` button.
 
 ## Captain's form
 
