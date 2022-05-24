@@ -11,7 +11,7 @@ Thank you for your interest in Flyball Manager part of the [ondeckmanager.com](h
 
 \- Bob
 
-![dashboard screen](/img/dashboard-screen.png)
+![dashboard screen](/img/dashboard-screen.svg)
 
 ## Features
 

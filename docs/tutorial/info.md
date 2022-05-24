@@ -13,7 +13,7 @@ No Worries! In this getting started guide we'll walk you through the setup of a 
 
 We've tried to make Flyball Manager as easy as possible to use. You will see on the left side a menu of items you can select from. These items will update after you create a new tournament.
 
-![Navigation](/img/fbm-sidebar.png)
+![Navigation](/img/fbm-sidebar.svg)
 
 When you click one of these menus, a screen opens showing you details about the item you clicked. Some screens may have further categories designated by horizontal tabs. Clicking any of the tabs displays the detail screen for the item clicked.
 
@@ -27,7 +27,7 @@ Since we haven't created a tournament, there's nothing to display on the info sc
 
 Click the Create button on the screen.
 
-![Tournament Create](/img/info-create.png)
+![Tournament Create](/img/info-create.svg)
 
 The first thing Flyball Manager is going to do is create a new blank file to store your data. Give the file a name and save it at a location on your computer where you can easily find it again.
 

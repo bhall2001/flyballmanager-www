@@ -10,6 +10,7 @@ title: Scoring
 ## Race results
 
 ### How to score heats
+
 The scoring screen is designed to make scoring heats as efficient as possible. For each heat, enter the times for the left and right lanes. A winner/loser will be determined based on the times entered.
 
 Tabbing through the data entry fields is determined based on the work flow of entering information while racing is underway. First times are entered for each heat.
@@ -44,11 +45,11 @@ A no finish heat is entered in the race time field for the team that did not fin
 
 Flyball Manager is designed so that most scoring entries can be made from a 10-key pad. The following key shortcuts assist with scoring using a 10-key pad.
 
-* `</>` designates the left lane wins
-* `<*>` designates the right lane wins
-* `-` designates a no finish
-* Press `<enter>` to move to next field
-* `<.>` is optional when entering race times.
+- `</>` designates the left lane wins
+- `<*>` designates the right lane wins
+- `-` designates a no finish
+- Press `<enter>` to move to next field
+- `<.>` is optional when entering race times.
 
 Adding a 10-key pad to a laptop can be done by either using an external keyboard with a 10-key pad or by using a Bluetooth wireless 10-key pad. We have had great luck with the [Satechi Bluetooth Wireless Numeric Keypad](https://www.amazon.com/Satechi-Portable-Bluetooth-Extensions-Smartphones/dp/B011AO91GI).
 
@@ -60,9 +61,9 @@ A team that interferes with another team is designated by entering the letter `<
 
 There are times that prior or future race scoring screens will need to be accessed. There are a number of ways to navigate to races on the scoring screen.
 
-* Click the arrows to move 1 race either previous or next
-* Click the number between the arrows and enter the race number to navigate to
-* Click the `Jump to Race` button near the clock on the screen
+- Click the arrows to move 1 race either previous or next
+- Click the number between the arrows and enter the race number to navigate to
+- Click the `Jump to Race` button near the clock on the screen
 
 ## Result labels
 
@@ -74,10 +75,10 @@ Labels are printed on 1"x4" standard labels. Avery 8161 is a common label for in
 
 ### Reading labels
 
-Flyball Manager labels provide information for individual heats as well as points totals for dogs. Each race results in 4 labels being printed, 2 each per team. 
+Flyball Manager labels provide information for individual heats as well as points totals for dogs. Each race results in 4 labels being printed, 2 each per team.
 
 **Single Race Label Example**
-![Race Labels](/img/single-race-labels.png)
+![Race Labels](/img/single-race-labels.svg)
 Sample labels for Race 1, teams BARK Off and Cruisin for a Brusin. 4 labels are printed for the single race.
 
 Each race a team will end up with 2 labels printed. The first label details the race results as recorded by the Scorer. The label details each heat including the heat number, dogs (by lineup number), the time, whether the heat was won, lost or tied, and the number of NAFA points awarded. The right side of the label details the points awarded for this race for dogs and the team.
@@ -102,7 +103,7 @@ Labels for each team are placed in the column under the teams' name. Labels are 
 
 The second label for a team's race (points total label) should **ALWAYS** be the first label in the team's column on the poster board. Place the points total label over top of the prior points total label. In the image above reference **item #2**. If you look closely you will see there are multiple labels stack on top of each other.
 
-There will be only 1 race points total label visible. The label should always be the first label of the team's column. 
+There will be only 1 race points total label visible. The label should always be the first label of the team's column.
 
 The points total label communicates total points for the team's dogs and tournament placement. Each time a new set of labels is printed, these totals are updated. By placing the label as the first label in the team's column, the points totals effectively are updated as a tournament progresses.
 

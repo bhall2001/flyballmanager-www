@@ -5,4 +5,4 @@ title: Teams
 
 # Teams
 
-![Teams Screen](/img/teams-screen.png)
+![Teams Screen](/img/teams-screen.svg)

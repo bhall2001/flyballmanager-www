@@ -15,7 +15,7 @@ Scrolling through all these clubs is not very efficient. Flyball Manager has a s
 
 For our practice tournament, select the club you belong to in the NAFA club list. For me, that's "B.A.R.K." which I know is NAFA ID 1009.
 
-![Club B.A.R.K.](/img/entries-bark-search.png)
+![Club B.A.R.K.](/img/entries-bark-search.svg)
 
 ## Add club teams
 
@@ -23,7 +23,7 @@ Next up is adding teams to an entered club. In the tournament clubs list click t
 
 Under the "Club Team Entries" list, the "+" button is now active. In Flyball Manager this button is used to add a new item to the list. Let's click the "+" button.
 
-![B.A.R.K. New Team](/img/entries-new-club-team.png)
+![B.A.R.K. New Team](/img/entries-new-club-team.svg)
 
 An entry is added to the club's team entries named "New Team". Chances are that's not the name of the team. For our practice tournament, edit the name to a name used for a team in your club that runs as a Regular class team. For me that would be "BARK On".
 
@@ -31,7 +31,7 @@ Next we need to select what class this team runs in. We're going to enter this t
 
 Finally, we need to assign the seed time for the team. Enter the seed time for the team you're creating. While this is just practice, please enter a reasonable number ;-)
 
-![Club Team Details](/img/entries-club-team-detail.png)
+![Club Team Details](/img/entries-club-team-detail.svg)
 
 GREAT! You've just added your first team to our practice tournament.
 
@@ -43,7 +43,7 @@ This getting started guide is intended to show you the basics of how to get goin
 
 On the Entries screen of our practice tournament, add 3 additional clubs each with 1 team all as "Regular" class teams. It really doesn't matter which clubs you choose and if you don't know the real names of the teams feel free to make something up, it's just for practice ;-)
 
-![Club Entries](/img/entries-4-clubs.png)
+![Club Entries](/img/entries-4-clubs.svg)
 
 In my case, here's what the Entries screen looks like once I've added in the additional clubs/teams.
 

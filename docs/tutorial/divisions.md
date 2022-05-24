@@ -11,7 +11,7 @@ If you've been following along, our practice tournament is starting to come toge
 
 Navigate to the Tournament Divisions screen. You will see that our practice tournament does not have any divisions listed. Click the "Add Division" button.
 
-![Add Division](/img/divisions-add-division.png)
+![Add Division](/img/divisions-add-division.svg)
 
 We need to add a division to the Regular class. Use the dropdown menu to select "Regular". When Flyball Manager adds a division to a tournament, the division number is automatically handled for you. Each time you create a division, the division number for the class is automatically incremented.
 
@@ -29,7 +29,7 @@ Our division has no details just yet so let's add them in!
 
 The team count field indicates how many teams should be in this division. For our practice tournament, we set up 4 teams. Enter "4" in the Team Count field to include all these teams in this division. Now Flyball Manager knows our tournament will have 4 teams in the Regular 1 division.
 
-![Team Count](/img/divisions-team-count.png)
+![Team Count](/img/divisions-team-count.svg)
 
 In a real tournament you will create divisions as needed. For each of those divisions you enter the number of teams you desire to have in the division.
 
@@ -43,7 +43,7 @@ Typically, divisions will race under the same format for the entire tournament. 
 
 For our practice tournament, the Regular 1 division will run a round-robin sequence 3 times using the 4 out of 4 format for racing. In the "Racing Format" section, for "Rounds" select 3 indicating we desire 3 round-robin cycles. In the "Format" menu, select "4/4" indicating we wish the race format to be "4 out of 4".
 
-![Racing Format](/img/divisions-racing-format.png)
+![Racing Format](/img/divisions-racing-format.svg)
 
 This format will be used throughout the entire schedule for this division. We can leave the 2nd race format option with empty values.
 
@@ -53,13 +53,13 @@ Each division needs to have a judge assigned to it. For our practice tournament 
 
 In the Judge drop-down menu, select the judge listed. In my case this is Thomas Lamont.
 
-![Division Judge](/img/divisions-judge.png)
+![Division Judge](/img/divisions-judge.svg)
 
 ### Tournament points
 
 And finally, we need to set up how points are awarded for this division. In the tournament points section enter the point values as defined for your tournament. In our practice tournament, 1 point is assigned for each heat win, .5 point for a heat tie, and 0 points for a heat loss. No points are given for wining the most heats. We will leave the "Race" points blank.
 
-![Tournament Points](/img/divisions-tournament-points.png)
+![Tournament Points](/img/divisions-tournament-points.svg)
 
 EXCELLENT! We've really made some progress getting our practice tournament setup.
 

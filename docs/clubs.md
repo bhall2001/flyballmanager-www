@@ -5,4 +5,4 @@ title: Clubs
 
 # Clubs
 
-![Club Screen](/img/club-screen.png)
+![Club Screen](/img/club-screen.svg)

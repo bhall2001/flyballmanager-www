@@ -5,7 +5,7 @@ title: Entries
 
 # Entries
 
-![Tournament Entries](/img/tournament-entries-main.png)
+![Tournament Entries](/img/tournament-entries-main.svg)
 
 ## Import entries
 
@@ -36,4 +36,3 @@ Sample data:
 :::note
 If a club or team name contains commas, it is required that the name be enclosed in double quotes. See example above.
 :::
-
