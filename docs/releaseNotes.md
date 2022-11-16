@@ -7,6 +7,25 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 21.2.0
+
+- add breaks to race schedule
+- add estimated start times on schedule screen
+- move all broadcast screen options to settings screen
+- fixed issue where NAFA data for dogs was not updating
+- add total dog points to completed C.2 forms
+- fixed issue where left lane heat 1 dogs could be over-written when tabbing
+- cleaned up lots of ui items in many locations in the app
+- lots of bug fixes
+- more performance tuning for bad networks
+- remove debugging code
+- Mac version "code signed" enhancing security (Windows coming as soon as I can prove I am who I say I am...)
+
+## 21.1.0
+
+- behind the scenes changes that you won't notice in app
+- fixed bug where completed C2 forms would not print after a tournament
+
 ## 21.0.5
 
 - added network status indicator
