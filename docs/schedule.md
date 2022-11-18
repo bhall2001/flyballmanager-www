@@ -87,6 +87,18 @@ While Flyball Manager does the best it can, conflicts will still exist in the sc
 
 Changing the start order of divisions will result in a different schedule. Many times it is better to vary the start order before making manual adjustments to a generated schedule.
 
+### Race Details
+
+Double-clicking a race in the schedule opens a window to update some details for the race.
+
+![Race Details](/img/schedule-race-details.svg)
+
+Format allows the format for this race to be changed. It is important to understand that this feature **IS NOT REFLECTED IN THE SEED CHART GENERATED AUTOMATICALLY** by Flyball Manager. Changing the value from the pre-computed value may effect the number of heats run for teams. The exported seed chart will need to be modified manually to correctly indicate the number of heats after the modification.
+
+Duration sets the expected duration for a race. Flyball Manager uses 8 minutes for the race time by default. This can be changed for races that are used for mat time, single dog racing or breaks. Enter the number of minutes this race is expected to take if it is different than 8 minutes. This is used when estimating club and team rest times between races and is also displayed online.
+
+Comments allow for up to 100 characters of text to be displayed on the race. The intended use here is to display online details of the race if needed. Examples would be listing the dogs that will be in mat time or single dog races.
+
 ### Limitations
 
 The scheduler supports round-robin tournaments only.

@@ -18,16 +18,27 @@ Thank you for your interest in Flyball Manager part of the [ondeckmanager.com](h
 Everything you need to Score and Inform including:
 
 - Intuitive, easy to read user interface
-- Create tournament schedule following NAFA tournament rules
+- Create tournament schedule following NAFA racing schedules in Appendix B of NAFA Rules
 - Easy schedule conflict resolution
 - Intuitive scoring interface
-- Live race updates for participants \(coming soon...\)
+- Live race updates for participants
 - Online Race Results \(coming soon...\)
-- "Racing", "On Deck" and "In The Hole" with Race Time Estimates for Smartphones, tablets and desktops \(coming soon...\)
-- Event "Jumbotron" \(coming soon...\)
-- Runs on Windows and Mac
+- "Racing", "On Deck" and "In The Hole" with Race Time Estimates for Smartphones, tablets and desktops
+- Runs on Windows and Mac (now includes native Apple Silicon support)
 
-Your support fosters the development of the software and makes the system even better. Please spread the word and help to make the software even better.
+Your support fosters the development of the software and makes the system even better. Please spread the word.
+
+## Road Map
+
+My path for development as of now...
+
+- add breaks to race schedule (released 11/2022)
+- online results and analytics (in progress)
+- single elimination races default path
+- multi ring tournaments
+- customize online experience
+- double elimination races (pending feedback after singles release)
+- online club pages
 
 ## System requirements
 
@@ -39,8 +50,12 @@ Minimum resolution: 1366x768
 
 ### macOS
 
-10.15.x (Catalina)
-
 11.x (Big Sur)
 
 12.x (Monterey)
+
+13.x (Ventura) including native Apple Silicon!!!
+
+## Questions or comments?
+
+bhall underscore 2001 at yahoo dot com <-hopefully you can figure that out ;-)
