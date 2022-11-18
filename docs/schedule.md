@@ -7,10 +7,10 @@ title: Schedule
 
 Flyball Manager generates tournament schedules using official NAFA racing schedules for round-robin tournaments. Our algorithms ensure teams are allotted the most distance between races. The schedule uses data entered from team entries and divisions to quickly generate the most efficient schedule for your tournament.
 
-
 ## Creating a Schedule
 
 ![Schedule Screen](/img/schedule-create.svg)
+
 ### Initial setup
 
 Prior to creating a schedule, a tournament must be created with team entries and divisions. Please see the tournament section to learn how to get started with a tournament. Once teams and divisions are created, review the tournament Seed Chart to verify teams and divisions are set up as intended.
@@ -21,7 +21,7 @@ The first step in generating a schedule is determining the start order for divis
 
 ### Reversing Lanes
 
-Round-robin tournaments the default lane selection follows the lanes published in the NAFA schedules. When hosting 2 single day tournaments it is desirable to swap the lanes for Day 2. 
+Round-robin tournaments the default lane selection follows the lanes published in the NAFA schedules. When hosting 2 single day tournaments it is desirable to swap the lanes for Day 2.
 
 Select the checkbox "Reverse Round Robin Lanes" to set the lanes to the reverse as published in the NAFA schedules. This allows teams to have a flow across the 2 days more in line with a multi-day tournament.
 
@@ -39,7 +39,7 @@ Each row contains information about individual races. Let's break down each sect
 
 The arrows allow the race to be moved to the previous race or next race.
 
-To the right of the arrows is the race number.
+To the right of the arrows is the race number and an estimated time for the race. The time estimate is based on the start time entered on the settings screen.
 
 Next are details for the teams in the left and right lanes.
 
@@ -47,15 +47,15 @@ Next are details for the teams in the left and right lanes.
 
 Top number details the classification and division of the team. Bottom number is the breakout for the division.
 
-**4/8**
+**1/8**
 
 The first number is the number of races the team has raced. Second number is the total number of races in the round-robin schedule for the team.
 
-**FM**
+**PM**
 
 Team Club abbreviation.
 
-**Funk You Up!**
+**Special Teams**
 
 Team name
 
@@ -67,11 +67,13 @@ The numbers in the schedule detail the left and right lane, previous and next ra
 
 ![Division](/img/schedule-prev-next.svg)
 
-The 80 above represents the left lane team races next in 80 minutes.
+The 68 above represents the left lane team races next in 68 minutes.
 
-The 32 above represents the left lane club races next in 16 minutes.
+The 40 above represents the right lane club races next in 40 minutes.
 
-The 90+ indicates the right team raced previously over 90 minutes ago.
+The 90+ indicates the right team races next in over 90 minutes.
+
+The -- indicates the left team has not raced prior to this race.
 
 The settings screen offers an option to change the number of minutes for both clubs and teams indicating a conflict. Races that meet these criteria are hilighted in red. Reasonable defaults are provided for these settings.
 
