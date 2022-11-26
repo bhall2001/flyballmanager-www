@@ -28,6 +28,7 @@ Point the monitor toward the ring to allow Judges to see the information on the 
 ### Race information
 
 The display shows the following items:
+
 - race number
 - division
 - format
@@ -39,7 +40,7 @@ for combined divisions, both divisions are displayed with the left data for the 
 
 ### Heat lamps
 
-The left side of the screen you will find heat lamps. These lights show the status of each heats for the current race.
+The left side of the screen you will find heat lamps. These lights show the status of each heat for the current race.
 
 - grey - indicates light is off
 - red - team in **r**ight lane won the heat
