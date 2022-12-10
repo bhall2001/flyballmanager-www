@@ -77,6 +77,30 @@ The -- indicates the left team has not raced prior to this race.
 
 The settings screen offers an option to change the number of minutes for both clubs and teams indicating a conflict. Races that meet these criteria are hilighted in red. Reasonable defaults are provided for these settings.
 
+### Breaks
+
+Breaks can be added to the schedule. Breaks can be anything inserted into the race schedule whens the NAFA racing will be paused. This can be things like mat time, single dog racing, blocks of time to allow resting of dogs and lunch.
+
+![Add break](/img/add-break.svg)
+
+To add a break, click "Add break..." on the schedule screen. On the screen that displays, enter the race after number where the break will occur, give the break a label such as `***MAT TIME***` or `***LUNCH BREAK***`.
+
+Comments can be used to give specific information for what will be happing during the break. As an example, for mat time you may have divided a 12 minute break into 2 sections where 2 different green dogs will have 6 minutes each. For the comment you can add `A-Tayo B-McCree` where `A` is the first 6 minutes and `B` is the 2nd 6 minutes of the break.
+
+Comments do not need to be entered when the break is created. It is easy to update the break comment later on either the Schedule screen or the Scoring screen.
+
+Give the break a duration in minutes. If a duration is not assigned the standard estimated race time will be used for the break duration (see below). Entering in the duration for the break assists when looking at the rest time for clubs and teams. This duration is also shown online at ondeckmanger.com for each break.
+
+Breaks can be easily moved to different spots in the schedule using the up and down arrows on the schedule screen. Clicking the up arrow moves the break 1 race forward in the schedule. The down arrow moves the break to 1 race later in the schedule.
+
+:::tip
+For 2 day tournaments add a break labeled `***END OF DAY 1 RACING***`. Assign the duration to a large value to assist in rest planning.
+:::
+
+:::info
+Flyball Manager currently assigns a race number to each break. There is no way to remove the race number for breaks at this time.
+:::
+
 ### Schedule Optimization
 
 The Scheduling engine optimizes the generated schedule. Flyball Manager spaces teams out as much as possible, some effort is made to spread clubs out. After optimization, it is still possible for races to result in inadequate time off for clubs and/or teams. These races are considered to be in "conflict".

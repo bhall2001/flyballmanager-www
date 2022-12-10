@@ -7,6 +7,14 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 21.2.2
+
+- fixed issue when scheduling teams with more than 9 races
+
+## 21.2.1
+
+- bug fixes
+
 ## 21.2.0
 
 - add breaks to race schedule
@@ -147,7 +155,6 @@ When you run a tournament, you find things that are not just quite right...
 ## 2017.3
 
 - Added Double click dog in Club list inserts into next available spot on team list
-- Added Teams sent to flyballmaster.com
 - Added Online Team Results
 - Fixed Save As file becomes main file
 - Fixed Division Format overwrites schedule's format
@@ -158,7 +165,6 @@ When you run a tournament, you find things that are not just quite right...
 - Updated Eyes On/Off to include new Open divisions
 - Eyes On/Off alert after move to next race alert
 - Result/Schedule data sent to Flyball Master.com via API calls
-- Fixed bug where trailing spaces on import caused software to hang
 - Auto Save every 30 seconds.
 - Replaced Save Alert with On-screen notification
 - built with Livecode 8.1.3
@@ -171,8 +177,7 @@ When you run a tournament, you find things that are not just quite right...
 - Built with Livecode 8.1.3
 - Added additional auto-saves
 - Club and Team conflicts crossing day boundary no longer show as a conflict
-- Changing Divison breakout time now correctly updates schedule
-- Schedule allows import of "x/y" race format
+- Changing Division breakout time now correctly updates schedule
 
 ## 2017.1
 
@@ -204,8 +209,3 @@ When you run a tournament, you find things that are not just quite right...
 - Added Eyes On/Eyes Off for Vet races
 - Added Release notes \(FINALLY!\)
 - Fixed issue with NAFA Scoring File check box on Team Edit screen
-
-## 2016.9
-
-- Added Performance Teams
-- Added Online Documentation to Help menu
