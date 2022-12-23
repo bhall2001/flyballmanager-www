@@ -21,6 +21,10 @@ Entries for the tournaments can be imported from a .csv file. This assists with 
 
 Lanes for the second tournament day can be reversed. This is detailed in the scheduling section of this documentation.
 
+## Norton is telling me that some files are unsafe and removes them.
+
+This is a side effect of the app not being code signed and trusted. You will need to disable Norton in order to run the application. Head to the [Norton Support forums](https://support.norton.com/sp/en/us/norton-360/current/solutions/v15457075) to learn how to temporarily disable Norton. Follow instructions in the section labeled "Exclude disks, folders, and files from scans"
+
 ## How do I print the scoring table race sheets?
 
 Flyball Manager replaces any handwritten forms the scoring table would have done in the past. Flyball Manager IS the source of truth for scoring tournaments. There is no need for the head table to do any manual scoring separate from Flyball Manager.
