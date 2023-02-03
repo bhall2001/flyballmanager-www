@@ -7,7 +7,7 @@ export default function HomepageDownload() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__subtitle">Download Flyball Manager</h1>
-        <p>v21.2.2</p>
+        <p>v5.0.0</p>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
             href={
