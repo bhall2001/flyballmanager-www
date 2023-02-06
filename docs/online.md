@@ -11,7 +11,7 @@ Flyball Manager provides an integrated online website. The website is used by pa
 
 Flyball Manager is part of the ondeckmanager.com product family. Participants should be directed to [www.ondeckmanager.com](https://www.ondeckmanager.com) to find tournament information.
 
-The online website provides realtime updates of the tournament schedule showing what race is "Racing", "On deck" and "In the hole". If you are familiar with Flyball Geek it's a similiar concept -- well except that it's totally integrated into the scoring process. Once a network connection is established, scoring a tournament will automatically update the on deck status.
+The online website provides realtime updates of the tournament schedule showing what race is "Racing", "On deck" and "In the hole". If you are familiar with Flyball Geek it's a similar concept -- well except that it's totally integrated into the scoring process. Once a network connection is established, scoring a tournament will automatically update the on deck status.
 
 ## Enable ondeckmanager.com
 
@@ -32,13 +32,13 @@ If you would like to test online integration feel free to enable the switches. O
 
 ## Network status
 
-Once a tournament is connected to the internet, Flyball Manager displays the current network status in the lower left corner of the window. When the application is able to comminicate with the server, a green light is displayed. If a connection to the server is not found, the light turns red.
+Once a tournament is connected to the internet, Flyball Manager displays the current network status in the lower left corner of the window. When the application is able to communicate with the server, a green light is displayed. If a connection to the server is not found, the light turns red.
 
 If the network status is red, confirm the scoring machine has a connection to the internet. Try to access a web page in a browser. If the browser is not working, confirm the network connection of the machine being used for scoring.
 
 ## Updating on deck status
 
-Once the scoring machine is setup to conenct to the internet and a schdule is published, on deck status updates are automatically communicated to ondeckmanager.com.
+Once the scoring machine is setup to connect to the internet and a schedule is published, on deck status updates are automatically communicated to ondeckmanager.com.
 
 Flyball manager updates ondeckmanager.com after each heat with the status of the winner of the heat. ondeckmanger.com displays heat lamps for the current race in the ring.
 
@@ -68,7 +68,7 @@ Only 1 race can have a status of "Racing", "On Deck" or "In the Hole". If you se
 
 ## Tournament message
 
-On the Broadcast screen on Flyball Manager there is a field to enter a tournament message. This message is displayed in the header on screens where tournament name is displayed. The tournament message can be used to communicate to participants using ondeckmanager.com information relevant to the tournamnet.
+On the Broadcast screen on Flyball Manager there is a field to enter a tournament message. This message is displayed in the header on screens where tournament name is displayed. The tournament message can be used to communicate to participants using ondeckmanager.com information relevant to the tournament.
 
 ## Race comment
 
