@@ -7,6 +7,24 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 5.1.0
+
+- add print all C.2 forms ordered by race schedule appearance (aka. print race 1 C2s, then race 2 C2s etc...)
+
+## 5.0.1
+
+- fix issue when break is first race of a tournament
+
+## 5.0.0
+
+VERSION NUMBERS CHANGING TO A MORE STANDARD NOTATION
+
+Yes, version 5.0.0 is newer than 21.2.2. I've decided to move to a more standard version naming scheme rather than based on the year I started working on a particular version of the app.
+
+- add tournament standings sent to ondeckmanger.com
+- add team results sent to ondeckmanager.com
+- bug fixes
+
 ## 21.2.2
 
 - fixed issue when scheduling teams with more than 9 races
