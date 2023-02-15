@@ -33,12 +33,14 @@ Your support fosters the development of the software and makes the system even b
 My path for development as of now...
 
 - add breaks to race schedule (released 11/2022)
-- online results and analytics (in progress)
+- online results and basic analytics (released 01/2023)
+- scoring/online display of multi-ring, single system (in progress)
+- manually add races to schedule (tentative)
+- multi ring, multi scoring systems
 - single elimination races default path
-- multi ring tournaments
-- customize online experience
-- double elimination races (pending feedback after singles release)
 - online club pages
+- enhanced online experience
+- double elimination races (pending feedback after singles release)
 
 ## System requirements
 
