@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 5.1.1
+
+- fix schedule lock status not being saved
+- limit race moving in schedule to not overlap with prior/next team race
+
 ## 5.1.0
 
 - add print all C.2 forms ordered by race schedule appearance (aka. print race 1 C2s, then race 2 C2s etc...)
