@@ -5,7 +5,17 @@ title: Release Notes
 
 # Release notes
 
-All notable changes to Flyball Master...
+All notable changes to Flyball Manager...
+
+## 5.2.0
+
+- display warning when tournament placement points are not entered when navigating to the Scoring screen
+- "Pit Boss" tab order option -- tab fields in each lane first
+- display all entries option on Tournament Entry screen
+- add support for dogs uploading to ondeckmanager.com
+- numerous bug fixes
+- built with Livecode 9.6.9
+- separate macOS Intel and Apple silicon binaries reduces size of app for Mac users
 
 ## 5.1.1
 
