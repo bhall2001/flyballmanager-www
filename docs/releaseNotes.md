@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 5.2.1
+
+- bug fixes related to last release
+
 ## 5.2.0
 
 - display warning when tournament placement points are not entered when navigating to the Scoring screen

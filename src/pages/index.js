@@ -42,7 +42,7 @@ export default function Home() {
         <HomepageBenefits />
         <HomepageFeatures />
         <HomepagePricing />
-        {/* <HomepageDownload /> */}
+        <HomepageDownload />
         <HomepageAttribution />
       </main>
     </Layout>
