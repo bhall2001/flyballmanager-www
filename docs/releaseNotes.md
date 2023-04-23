@@ -7,6 +7,14 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.2.2
+
+- add warning when calculating placements if placements already exist
+- add check that all divisions have a judge assigned to them before generating the NAFA scoring file
+- numerous bug fixes on scoring screen when entering results
+- fixed an issue where 2nd round robin group could not have multiple rounds
+- fix tab order of label dialog and hide label window when printing
+
 ## 5.2.1
 
 - bug fixes related to last release
