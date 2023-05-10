@@ -7,7 +7,7 @@ export default function HomepageDownload() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__subtitle">Download Flyball Manager</h1>
-        <p>v5.2.2</p>
+        <p>v5.3.0</p>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
             href={
@@ -29,7 +29,7 @@ export default function HomepageDownload() {
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a
             href={
-              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/FBM_Windows.zip'
+              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/Flyball_Manager_Setup.exe'
             }
             className="button button--secondary button--lg"
           >

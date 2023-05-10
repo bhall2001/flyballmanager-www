@@ -7,6 +7,18 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.3.0
+
+- add limited multi-ring support
+  - online on deck
+  - pit boss scoring
+  - pit boss tab ordering
+- Windows app uses installer and is now code signed!
+- allow break races to overlap
+- fix issue where version check may fail
+- added Stripe payment window
+- fixed issue where single bracket heat count was not added to online heat count
+
 # 5.2.2
 
 - add warning when calculating placements if placements already exist
