@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.3.1
+
+- fix issue when deleting dogs from lineups
+
 # 5.3.0
 
 - add limited multi-ring support
