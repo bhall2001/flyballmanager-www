@@ -13,7 +13,7 @@ function Pricing() {
                   <li className="header" style={{ backgroundColor: '#2e8555' }}>
                     Pricing
                   </li>
-                  <li className="grey">$10 / day</li>
+                  <li className="grey">$10 / tournament day*</li>
                   <li>Generate Schedule</li>
                   <li>Intuitive Scoring Interface</li>
                   <li>Live "On Deck" Website Replaces Flyball Geek</li>
@@ -27,6 +27,14 @@ function Pricing() {
               </div>
             </div>
           </div>
+        </div>
+        <div className="container">
+          <p>
+            *fee is based on number of days a sanctioned tournament is, use of
+            the application before and after the tournament is included in the
+            fee. For a 2 day tournament the fee is $20 total. Payments are made
+            using Stripe by selecting the Window/Payments menu in the app.
+          </p>
         </div>
       </section>
       <br />
