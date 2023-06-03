@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.3.2
+
+- fix issues with data for team details screen at ondeckmanager.com
+
 # 5.3.1
 
 - fix issue when deleting dogs from lineups
