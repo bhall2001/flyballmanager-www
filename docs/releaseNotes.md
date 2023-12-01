@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.4.1
+
+- fix issue with Apple Silicon running macOS Sonoma v14.1
+
 # 5.3.2
 
 - fix issues with data for team details screen at ondeckmanager.com
