@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.4.3
+
+- fix issues with closing the Edit Race Status window
+
 # 5.4.1
 
 - fix issue with Apple Silicon running macOS Sonoma v14.1
