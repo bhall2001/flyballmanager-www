@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 5.4.4
+
+- fix issues with printing forms
+
 # 5.4.3
 
 - fix issues with closing the Edit Race Status window
