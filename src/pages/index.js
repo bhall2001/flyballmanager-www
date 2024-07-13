@@ -9,6 +9,7 @@ import HomepageAttribution from '../components/HomepageAttribution';
 import HomepageFeatures from '../components/HomepageFeatures';
 import HomepagePricing from '../components/HomepagePricing/HomepagePricing';
 import HomepageDownload from '../components/HomepageDownload';
+import HomepageScheduleEnhance from '../components/HomepageScheduleEnhance';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -40,6 +41,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageBenefits />
+        <HomepageScheduleEnhance />
         <HomepageFeatures />
         <HomepagePricing />
         <HomepageDownload />
