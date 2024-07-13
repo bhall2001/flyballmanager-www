@@ -7,6 +7,13 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+# 6.0.0
+
+- Complete re-write of scheduling! Now uses logic from Dale Smith to assist in spreading out clubs and teams
+- default to head judge when creating a division
+- pre-fill tournament points when creating a division
+- bug fixes
+
 # 5.4.5
 
 - fix issues with printing forms

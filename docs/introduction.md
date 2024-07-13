@@ -32,12 +32,13 @@ Your support fosters the development of the software and makes the system even b
 
 My path for development as of now...
 
-- add breaks to race schedule (released 11/2022)
-- online results and basic analytics (released 01/2023)
-- scoring/online display of multi-ring, single system (in progress)
-- manually add races to schedule (tentative)
-- multi ring, multi scoring systems
-- single elimination races default path
+- add breaks to race schedule (released 2022-11)
+- online results and basic analytics (released 2023-01)
+- scoring/online display of multi-ring, single system (released 2023-07)
+- re-write scheduling engine (released 2024-07)
+- ~~manually add races to schedule~~
+- multi ring, multi scoring systems (up next)
+- single elimination races default path (in progress)
 - online club pages
 - enhanced online experience
 - double elimination races (pending feedback after singles release)
@@ -52,12 +53,10 @@ Minimum resolution: 1366x768
 
 ### macOS
 
-11.x (Big Sur)
-
-12.x (Monterey)
-
 13.x (Ventura) including native Apple Silicon!!!
+
+14.x (Sonoma)
 
 ## Questions or comments?
 
-bhall underscore 2001 at yahoo dot com <-hopefully you can figure that out ;-)
+bhall underscore 2001 at yahoo dot com {"<"}-hopefully you can figure that out ;-)
