@@ -7,34 +7,38 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
-# 6.0.0
+## 6.0.1
+
+- adjustments to scheduler for multi-ring tournaments
+
+## 6.0.0
 
 - Complete re-write of scheduling! Now uses logic from Dale Smith to assist in spreading out clubs and teams
 - default to head judge when creating a division
 - pre-fill tournament points when creating a division
 - bug fixes
 
-# 5.4.5
+## 5.4.5
 
 - fix issues with printing forms
 
-# 5.4.3
+## 5.4.3
 
 - fix issues with closing the Edit Race Status window
 
-# 5.4.1
+## 5.4.1
 
 - fix issue with Apple Silicon running macOS Sonoma v14.1
 
-# 5.3.2
+## 5.3.2
 
 - fix issues with data for team details screen at ondeckmanager.com
 
-# 5.3.1
+## 5.3.1
 
 - fix issue when deleting dogs from lineups
 
-# 5.3.0
+## 5.3.0
 
 - add limited multi-ring support
   - online on deck
@@ -46,7 +50,7 @@ All notable changes to Flyball Manager...
 - added Stripe payment window
 - fixed issue where single bracket heat count was not added to online heat count
 
-# 5.2.2
+## 5.2.2
 
 - add warning when calculating placements if placements already exist
 - add check that all divisions have a judge assigned to them before generating the NAFA scoring file
