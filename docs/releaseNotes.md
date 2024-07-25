@@ -7,6 +7,12 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.1.0
+
+- fixes issues with multi-ring
+- adds additional data for ondeckmanager to display club full names and multi-ring information
+- downgrade Livecode to prior version 9.6.11 which seems to fix an issue where arrows on the schedule screen stopped working on Windows
+
 ## 6.0.1
 
 - adjustments to scheduler for multi-ring tournaments
