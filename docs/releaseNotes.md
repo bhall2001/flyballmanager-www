@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.1.1
+
+- fix issue with height on 6th dog in lineup
+
 ## 6.1.0
 
 - fixes issues with multi-ring
