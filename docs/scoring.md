@@ -6,7 +6,7 @@ title: Scoring
 # Scoring
 
 :::caution
-Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+Screenshots do not represent newest version of Flyball Manager. Update coming soon...
 :::
 
 ![Scoring Screen](/img/scoring-screen-v2.svg)

@@ -6,7 +6,7 @@ title: Forms
 # Forms
 
 :::caution
-Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+Screenshots do not represent newest version of Flyball Manager. Update coming soon...
 :::
 
 ## NAFA form C.2
