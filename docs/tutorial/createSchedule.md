@@ -5,6 +5,10 @@ title: Schedule
 
 # Tournament Schedule
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
+:::
+
 Our practice tournament is almost ready to go. We'll end this quick start guide by creating a schedule for our tournament.
 
 ## Generate Schedule

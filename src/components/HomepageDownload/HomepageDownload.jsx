@@ -11,11 +11,11 @@ export default function HomepageDownload() {
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
             href={
-              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/Flyball_Manager-Intel.dmg'
+              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/Flyball_Manager_Setup.exe'
             }
             className="button button--secondary button--lg"
           >
-            macOS Intel
+            Windows
           </a>
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a
@@ -29,11 +29,11 @@ export default function HomepageDownload() {
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a
             href={
-              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/Flyball_Manager_Setup.exe'
+              'https://s3.us-east-2.amazonaws.com/downloads.flyballmanager.com/Flyball_Manager-Intel.dmg'
             }
             className="button button--secondary button--lg"
           >
-            Windows
+            macOS Intel
           </a>
         </div>
       </div>

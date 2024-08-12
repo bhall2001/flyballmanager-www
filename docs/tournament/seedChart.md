@@ -3,6 +3,10 @@ id: seedChart
 title: Seed Chart
 ---
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+:::
+
 A critical document to any round-robin tournament is the seed chart. This document communicates the classifications, divisions and seeding order of teams entered in the tournament.
 
 Flyball Manager generates the tournament seed chart from the entries and entered divisions for the tournament.
@@ -11,7 +15,7 @@ Flyball Manager generates the tournament seed chart from the entries and entered
 
 ## Seed chart overview
 
-The first line of each division provides summary information for the division. This information includes the division race format, breakout time, the total number of races for the division, total number of races for each team, the number of heats each team will run and the division spread. 
+The first line of each division provides summary information for the division. This information includes the division race format, breakout time, the total number of races for the division, total number of races for each team, the number of heats each team will run and the division spread.
 
 The spread is the difference in seed times from the highest seed to the lowest seed. The lower this number the more competitive the division should be.
 

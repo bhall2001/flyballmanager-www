@@ -5,6 +5,10 @@ title: Entries
 
 # Tournament Entries
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
+:::
+
 Once tournament clubs and teams are finalized, we need to add the club entries to Flyball Manager. This is done on the Entries screen. Navigate to the Entries screen by clicking the "Entries" tab while on the "Tournament" screen.
 
 ## Add club

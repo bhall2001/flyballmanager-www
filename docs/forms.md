@@ -5,6 +5,10 @@ title: Forms
 
 # Forms
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+:::
+
 ## NAFA form C.2
 
 The official NAFA Form C.2 can be found in the Forms section of Flyball Manager. Form C.2 uses the data entered for the tournament to create a form that is ready for line judges. Every attempt is made to allow for ample room to record information on the form in a clear manner.

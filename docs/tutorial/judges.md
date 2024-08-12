@@ -5,6 +5,10 @@ title: Judges
 
 # Tournament Judges
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
+:::
+
 Even though this is only practice, we still need to make things semi-official. And to do that we need to have a judge. Adding a judge to our tournament is pretty easy.
 
 Navigate to the Tournament Judges screen. All the NAFA judges can be found in the scrolling list on the left side of the screen. You can scroll through the list looking for the judge you need. But Flyball Manager makes it easier than that.
