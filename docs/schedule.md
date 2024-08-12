@@ -5,6 +5,10 @@ title: Schedule
 
 # Schedule
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+:::
+
 Flyball Manager generates tournament schedules using official NAFA racing schedules for round-robin tournaments. Our algorithms ensure teams are allotted the most distance between races. The schedule uses data entered from team entries and divisions to quickly generate the most efficient schedule for your tournament.
 
 ## Creating a Schedule

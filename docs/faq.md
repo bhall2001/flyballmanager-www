@@ -5,6 +5,10 @@ title: FAQs
 
 # FAQs
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+:::
+
 ## Labels
 
 Labels are 1"x4" Avery 8161

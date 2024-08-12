@@ -5,6 +5,10 @@ title: Scoring
 
 # Scoring
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to coming soon...
+:::
+
 ![Scoring Screen](/img/scoring-screen-v2.svg)
 
 ## Race results

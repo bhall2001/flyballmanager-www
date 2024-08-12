@@ -5,6 +5,10 @@ title: Info
 
 # Tournament Info
 
+:::caution
+Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
+:::
+
 Let's get started setting up a tournament. Of course Flyball Manager is intended for "real" NAFA tournaments but since you here, we're guessing you'd like to try things out first.
 
 No Worries! In this getting started guide we'll walk you through the setup of a fake "practice" tournament. This way you can get a sense of how Flyball Manager works without having to worry about any real tournament data.
