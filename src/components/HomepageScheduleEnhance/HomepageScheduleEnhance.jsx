@@ -6,7 +6,9 @@ export default function HomepageScheduleEnhance() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__subtitle">NEW Enhanced Scheduling Engine</h1>
+        <h1 className="hero__subtitle">
+          NEW Scheduling Engine based on NAFA's official scheduler by Dale Smith
+        </h1>
         <p>Flow, rest or balanced? You decide what is best!</p>
         {/* <div className="buttons_src-components-HomepageDownload-styles-module">
           <a

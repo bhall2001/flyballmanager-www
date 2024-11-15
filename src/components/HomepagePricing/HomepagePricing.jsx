@@ -13,7 +13,7 @@ function Pricing() {
                   <li className="header" style={{ backgroundColor: '#2e8555' }}>
                     Pricing
                   </li>
-                  <li className="grey">$10 / tournament day*</li>
+                  <li className="grey">$10 per ring per tournament day*</li>
                   <li>Generate Schedule</li>
                   <li>Intuitive Scoring Interface</li>
                   <li>Live "On Deck" Website Replaces Flyball Geek</li>
@@ -30,10 +30,14 @@ function Pricing() {
         </div>
         <div className="container">
           <p>
-            *fee is based on number of days a sanctioned tournament is, use of
-            the application before and after the tournament is included in the
-            fee. For a 2 day tournament the fee is $20 total. Payments are made
-            using Stripe by selecting the Window/Payments menu in the app.
+            *The fee is determined by the number of rings and the number of days
+            of the sanctioned tournament. Application usage across multiple
+            devices, both before and after the tournament, is included at no
+            additional cost. For example, a single-ring, two-day tournament
+            costs just $20. This fee covers all costs including accessing the
+            online ondeck and realtime results at ondeckmanager.com. Payments
+            are securely processed via Stripe in app at the{' '}
+            <code>Window > Payments</code> menu.
           </p>
         </div>
       </section>
