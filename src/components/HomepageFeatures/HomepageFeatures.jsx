@@ -14,13 +14,34 @@ export default function Features() {
             <div className="text--center padding-horiz--md">
               <div className="text--left padding-top--xl">
                 <ul>
-                  <li>Creates seed chart</li>
-                  <li>Schedule generation</li>
-                  <li>Intuitive scoring interface</li>
-                  <li>Online "On Deck" schedule updates</li>
+                  <li>
+                    Easily import tournament entries using NAFA's CanAm format
+                  </li>
+                  <li>Seed chart generation</li>
+                  <li>
+                    Schedule generation based on <b>Dale Smith's</b> NAFA
+                    scheduling algorithms
+                  </li>
+                  <li>Scoring screens designed for simplicity</li>
+                  <li>
+                    Integrated on deck race status automatically updates as you
+                    score, no need for Flyball Geek
+                  </li>
+                  <li>
+                    On deck includes <b>realtime</b> heat lamps
+                  </li>
+                  <li>
+                    Web based results and accumulated points at ondeckmanger.com
+                    -- NO NEED TO PRINT LABELS ANY LONGER
+                  </li>
                   <li>Flexible tournament placement points</li>
-                  <li>Ringside judges display</li>
-                  <li>Labels with accumulated points</li>
+                  <li>Integrated ringside judges display</li>
+                  <li>
+                    Labels with accumulated points -- if you still want to print
+                    labels
+                  </li>
+                  <li>End of tournament placement reports</li>
+                  <li>Generate PDF versions of completed C2 forms</li>
                   <li>Generates NAFA scoring file</li>
                   <li>macOS and Windows</li>
                 </ul>
