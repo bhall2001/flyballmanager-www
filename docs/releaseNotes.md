@@ -7,6 +7,14 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.1.3
+
+- updated scheduler to spread clubs out better especially when using "Flow" setting
+- performance tweaks to scheduling engine
+- updated About box to better comply with Livecode's license agreement
+- bug fixes
+- built with Livecode v10.0.0
+
 ## 6.1.1
 
 - fix issue with height on 6th dog in lineup
