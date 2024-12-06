@@ -36,6 +36,12 @@ export default function HomepageDownload() {
             macOS Intel
           </a>
         </div>
+        <p></p>
+        <p>
+          Give Flyball Manager a try by downloading the app! There's no charge
+          to explore and test it out. A fee only applies if you decide to use it
+          for scoring a tournament.
+        </p>
       </div>
     </header>
   );
