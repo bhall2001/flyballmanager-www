@@ -7,9 +7,20 @@ export default function HomepageScheduleEnhance() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__subtitle">
-          NEW Scheduling Engine based on NAFA's official scheduler by Dale Smith
+          Scheduling Engine based on NAFA's official scheduler by Dale Smith
         </h1>
-        <p>Flow, rest or balanced? You decide what is best!</p>
+        <p>
+          Schedules that favor flow, rest or a balance of both? You decide what
+          is best!
+        </p>
+
+        <h1 className="hero__subtitle">
+          Single Elimination Brackets (In development)
+        </h1>
+        <p>
+          Scheduling with loser races, scoring and seamless integration to
+          ondeckmanger.com
+        </p>
         {/* <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
             href={
