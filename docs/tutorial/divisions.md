@@ -5,10 +5,6 @@ title: Divisions
 
 # Tournament Divisions
 
-:::caution
-Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
-:::
-
 If you've been following along, our practice tournament is starting to come together. We now have 4 clubs entered each with 1 team in the Regular classification and a single judge. Now let's get these 4 teams organized into a division and define the format of racing for them.
 
 ## Add a division
