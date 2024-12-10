@@ -5,10 +5,6 @@ title: Schedule
 
 # Tournament Schedule
 
-:::caution
-Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
-:::
-
 Our practice tournament is almost ready to go. We'll end this quick start guide by creating a schedule for our tournament.
 
 ## Generate Schedule
@@ -17,7 +13,9 @@ Click "Schedule" in the sidebar menu to navigate to the schedule screen. Our pra
 
 ![Generate Schedule](/img/schedule-generate.svg)
 
-Flyball Manager generates the schedule and displays it on the screen.
+Flyball Manager generates an initial unoptimized schedule. With our test tournament of just 4 clubs and 4 teams, there will be a lot of conflicts detected with the schedule. Not to worry, in most real tournament situations, you will see fewer conflicts.
+
+Generating a schedule is a multi-step process. For this tutorial we will end after the first step. Be sure to read up on the details of optimizing your schedule in the schedule section of the documentation.
 
 ![Schedule](/img/schedule-final.svg)
 

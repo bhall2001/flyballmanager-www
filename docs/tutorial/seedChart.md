@@ -5,10 +5,6 @@ title: Seed Chart
 
 # Tournament Seed Chart
 
-:::caution
-Screenshots do not represent newest version of Flyball Manager. Update to tutorial coming soon...
-:::
-
 A critical document for any tournament is the seed chart. The seed chart provides a high level overview of information for your tournament. The seed chart is the document needed to build a schedule.
 
 Flyball Manager uses the data entered for club team entries and divisions to generate the tournament seed chart. Let's have a look at the seed chart for our practice tournament.
