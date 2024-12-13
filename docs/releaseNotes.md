@@ -7,6 +7,15 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.2.0 (in development)
+
+- adds single elimination brackets with loser races
+- teams with same seed randomly seeded
+- fix issue when combining divisions
+- adds non identifiable tracking of launch and schedule generation
+- adds Livecode required Open Source license
+- bug fixes and performance improvements
+
 ## 6.1.3
 
 - updated scheduler to spread clubs out better especially when using "Flow" setting

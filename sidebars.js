@@ -38,6 +38,7 @@ const sidebars = {
     'faq',
     'releaseNotes',
     'issues',
+    'appendix',
   ],
   tutorialSidebar: [
     'tutorial/info',
