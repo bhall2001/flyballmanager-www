@@ -3,10 +3,6 @@ id: seedChart
 title: Seed Chart
 ---
 
-:::caution
-Screenshots do not represent newest version of Flyball Manager. Update coming soon...
-:::
-
 A critical document to any round-robin tournament is the seed chart. This document communicates the classifications, divisions and seeding order of teams entered in the tournament.
 
 Flyball Manager generates the tournament seed chart from the entries and entered divisions for the tournament.
