@@ -36,9 +36,8 @@ My path for development as of now...
 - online results and basic analytics (released 2023-01)
 - scoring/online display of multi-ring, single system (released 2023-07)
 - re-write scheduling engine (released 2024-07)
-- ~~manually add races to schedule~~
 - multi ring, multi scoring systems (up next)
-- single elimination races default path (in progress)
+- single elimination races default path (planned release December 2024)
 - online club pages
 - enhanced online experience
 - double elimination races (pending feedback after singles release)
@@ -56,6 +55,8 @@ Minimum resolution: 1366x768
 13.x (Ventura) including native Apple Silicon!!!
 
 14.x (Sonoma)
+
+15.x (Sequoia)
 
 ## Questions or comments?
 

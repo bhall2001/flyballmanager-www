@@ -35,10 +35,15 @@ const sidebars = {
     'online',
     'placements',
     'forms',
+    {
+      type: 'category',
+      label: 'Bracket Racing',
+      collapsed: false,
+      items: ['brackets', 'bracket-schedules'],
+    },
     'faq',
     'releaseNotes',
     'issues',
-    'appendix',
   ],
   tutorialSidebar: [
     'tutorial/info',
