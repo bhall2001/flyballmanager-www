@@ -7,9 +7,7 @@ title: Schedules
 
 ## Single elimination with loser races
 
-**Single Elimination Brackets are in development expected to release in December of 2024.**
-
-This section lists the format of the Flyball Manager single elimination racing.
+This section lists the race schedule of Flyball Manager's single elimination racing.
 
 ### 4 Team single elimination
 

@@ -10,13 +10,11 @@ export default function HomepageScheduleEnhance() {
           Scheduling Engine based on NAFA's official scheduler by Dale Smith
         </h1>
         <p>
-          Schedules that favor flow, rest or a balance of both? You decide what
-          is best!
+          Schedules that favor tournament flow, athlete rest or a balance of
+          both. You decide what is best!
         </p>
 
-        <h1 className="hero__subtitle">
-          Single Elimination Brackets (In development)
-        </h1>
+        <h1 className="hero__subtitle">NEW Single Elimination Brackets</h1>
         <p>
           Scheduling with loser races, scoring and seamless integration to
           ondeckmanger.com
