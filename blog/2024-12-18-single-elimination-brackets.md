@@ -11,6 +11,8 @@ It’s been a long time in the making, but I’m thrilled to announce that **Fly
 
 This journey started back in 2020 with a major project: completely re-writing the database layer. That foundational work set the stage for everything that followed, including a critical update to the scheduling engine.
 
+<!-- truncate -->
+
 ## Why Update the Scheduling Engine?
 
 The feedback from users like you was clear—there was room for improvement in the schedules Flyball Manager was generating. So, I set out to overhaul the scheduling engine with two key goals:
