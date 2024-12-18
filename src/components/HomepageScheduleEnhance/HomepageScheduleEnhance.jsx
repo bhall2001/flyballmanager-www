@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 export default function HomepageScheduleEnhance() {
   return (
@@ -19,6 +20,14 @@ export default function HomepageScheduleEnhance() {
           Scheduling with loser races, scoring and seamless integration to
           ondeckmanger.com
         </p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/blog/single-elimination-brackets"
+          >
+            Learn more about brackets
+          </Link>
+        </div>
         {/* <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
             href={

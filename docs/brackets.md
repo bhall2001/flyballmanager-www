@@ -79,7 +79,7 @@ Critical to scoring bracket races is that after all heats are complete, 1 team m
 To determine the winner of a bracket race, the number of wins entered on the scoring screen must match the first number in the race format. In 3 out 5 format, a team **MUST** win 3 heats to be determined as the winner.
 :::
 
-## Single elimination bracket (in development)
+## Single elimination bracket
 
 Click the `+ Single Elimination` button to enable a single elimination bracket for the division. Select the format for the heats of the bracket. Single elimination bracket formats are limited to 2 of 3 or 3 of 5 formats.
 
