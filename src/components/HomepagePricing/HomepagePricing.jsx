@@ -13,10 +13,9 @@ function Pricing() {
                   <li className="header" style={{ backgroundColor: '#2e8555' }}>
                     Pricing
                   </li>
-                  <li className="grey">$10 per ring per tournament day*</li>
+                  <li className="grey">$10 per ring per tournament day**</li>
                   <li>
-                    Generate Schedule (including single elimination brackets{' '}
-                    {'<'}-- in development)
+                    Generate Schedule including single elimination brackets
                   </li>
                   <li>Intuitive scoring interface</li>
                   <li>
@@ -38,7 +37,7 @@ function Pricing() {
         <div className="container">
           <p></p>
           <p>
-            *The fee is based on the number of rings and days in the sanctioned
+            **The fee is based on the number of rings and days in the sanctioned
             tournament. You can use the app on multiple devices, both before and
             after the event, at no extra charge. For example, a two-day
             tournament with one ring costs only $20. This fee includes

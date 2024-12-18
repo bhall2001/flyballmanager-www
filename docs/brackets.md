@@ -5,8 +5,6 @@ title: Overview
 
 # Bracket Racing Overview
 
-**Single Elimination Brackets are in development expected to release in December of 2024.**
-
 Flyball Manager supports single elimination brackets with loser races as well as a special 1 bracket race for single day tournaments. It is very important that you read this section if your tournament intends to use bracket racing.
 
 When adding a bracket, Flyball manager takes care of all the required handling of the bracket races. This includes scheduling the races, scoring, automatically managing teams for the brackets based on the teams win/loss of heats, and automatically synchronizes this information to ondeckmanager.com for communication with participants.

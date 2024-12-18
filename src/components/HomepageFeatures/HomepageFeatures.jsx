@@ -24,8 +24,7 @@ export default function Features() {
                       <b>Dale Smith's NAFA scheduling algorithms</b>
                     </li>
                     <li>
-                      <b>Single elimination brackets</b> with loser races (in
-                      development)
+                      <b>Single elimination brackets</b> with loser races
                     </li>
                     <li>
                       Scoring screens designed for <b>simplicity</b>
@@ -45,8 +44,7 @@ export default function Features() {
                     <li>Flexible tournament placement points</li>
                     <li>Integrated ringside judges display</li>
                     <li>
-                      Labels with accumulated points -- if you still want to
-                      print labels
+                      Labels with accumulated points -- if you print labels
                     </li>
                     <li>End of tournament placement reports</li>
                     <li>Generate PDF versions of completed C2 forms</li>
