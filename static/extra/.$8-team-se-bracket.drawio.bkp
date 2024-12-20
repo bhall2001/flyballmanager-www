@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-38" value="Winner Race 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="H3SU6zbXUFuWfZ92cG2d-9" vertex="1">
-          <mxGeometry x="190" y="64" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-15" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="368" y="784" width="320" height="70" as="geometry" />
@@ -104,31 +104,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-32" value="1st - Winner Race 10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="641" y="295" width="116" height="30" as="geometry" />
+          <mxGeometry x="641" y="292" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-33" value="2nd - Loser Race 10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="641" y="486" width="116" height="30" as="geometry" />
+          <mxGeometry x="641" y="483" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-36" value="4th - Loser Race 9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="641" y="730" width="116" height="30" as="geometry" />
+          <mxGeometry x="641" y="727" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-37" value="Winner Race 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="479" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="479" y="166" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-39" value="Loser Race 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="784" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-40" value="Loser Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="854" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="850" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-41" value="Winner Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="299" y="100" width="90" height="30" as="geometry" />
+          <mxGeometry x="299" y="96" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-42" value="Winner Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="299" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="299" y="236" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuvQdy2Z3pqtqVISLEcr-9" value="5th - Winner Race 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="636" y="820" width="126" height="30" as="geometry" />
+          <mxGeometry x="636" y="817" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IuvQdy2Z3pqtqVISLEcr-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -209,22 +209,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-13" value="Loser Race 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="614" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-14" value="Loser Race 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="684" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="680" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-15" value="3rd - Winner Race 9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="641" y="650" width="116" height="30" as="geometry" />
+          <mxGeometry x="641" y="647" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-16" value="Bracket Seed 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="204" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-17" value="Bracket Seed 5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="274" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-21" value="6th - Loser Race 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="646" y="900" width="106" height="30" as="geometry" />
+          <mxGeometry x="646" y="897" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z-EwFcKrp6Wiq-JpFyMq-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -260,10 +260,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-18" value="Bracket Seed 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="64" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-19" value="Bracket Seed 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="134" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="368" y="944" width="320" height="70" as="geometry" />
@@ -296,13 +296,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-26" value="Loser Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="461" y="1014" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="1010" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-27" value="7th - Winner Race 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="641" y="980" width="116" height="30" as="geometry" />
+          <mxGeometry x="641" y="977" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-30" value="8th - Loser Race 8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="646" y="1070" width="106" height="30" as="geometry" />
+          <mxGeometry x="646" y="1067" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-32" value="Loser Race 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="461" y="944" width="90" height="30" as="geometry" />
+          <mxGeometry x="461" y="940" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -335,10 +335,10 @@
           <mxGeometry x="329" y="419" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-37" value="Winner Race 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="365" width="90" height="30" as="geometry" />
+          <mxGeometry x="299" y="361" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-38" value="Winner Race 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="505" width="90" height="30" as="geometry" />
+          <mxGeometry x="299" y="501" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="89" y="399" width="320" height="70" as="geometry" />
@@ -371,10 +371,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-45" value="Bracket Seed 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="469" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-46" value="Bracket Seed 7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="539" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="535" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -404,10 +404,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-52" value="Bracket Seed 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="329" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="325" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csj1tmw9l9uNEUCIM7JJ-53" value="Bracket Seed 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="119" y="399" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="395" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

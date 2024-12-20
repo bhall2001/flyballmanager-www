@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="89" y="220" width="320" height="70" as="geometry" />
+          <mxGeometry x="265" y="174" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-2" value="" style="endArrow=none;html=1;rounded=0;" parent="zmgILQPwE5HC3UxDP4bQ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -36,21 +36,33 @@
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249" y="336" as="sourcePoint" />
-            <mxPoint x="409" y="336" as="targetPoint" />
+            <mxPoint x="425" y="290" as="sourcePoint" />
+            <mxPoint x="585" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-9" value="2nd - Loser Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="331" width="111" height="30" as="geometry" />
+          <mxGeometry x="455" y="285" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-10" value="1st - Winner Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="252" width="111" height="30" as="geometry" />
+          <mxGeometry x="455" y="206" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-11" value="Bracket Seed 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="216" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zmgILQPwE5HC3UxDP4bQ-12" value="Bracket Seed 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="286" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3wu8ID7CPF29jWAv0JG--1" value="NAFA CanAm Championship Race" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="285" y="70" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3wu8ID7CPF29jWAv0JG--2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="150" as="sourcePoint" />
+            <mxPoint x="585" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3wu8ID7CPF29jWAv0JG--3" value="Division" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="145" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
