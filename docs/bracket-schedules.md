@@ -11,10 +11,6 @@ This section lists the race schedule of Flyball Manager's bracket racing.
 Make your bracket racing more organized by printing your bracket schedule for the head table. Just right-click the bracket image needed, select "Open image in new tab," and print it. You can then fill in the details as your tournament progresses.
 :::
 
-:::caution
-To print images be sure you hare viewing the page in "light" mode (white background) so text is black. If viewing in dark mode text will print as white
-:::
-
 ## Single elimination brackets
 
 ### 4 Team with consolation race
