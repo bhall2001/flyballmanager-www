@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Winners Bracket&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="9" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Champion Bracket&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="9" y="100" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="241" y="220" width="320" height="70" as="geometry" />
@@ -97,7 +97,7 @@
             <mxPoint x="392" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Loser Races&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Consolation Races&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="9" y="490" width="151" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-22" value="Race 7" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -294,6 +294,18 @@
             <mxPoint x="662" y="826" as="sourcePoint" />
             <mxPoint x="799" y="826" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Wa3V5i6aUIhUustxlBAo-1" value="6 Team Single Elimination with Consolation Races" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="196" y="48" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wa3V5i6aUIhUustxlBAo-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="662" y="166" as="sourcePoint" />
+            <mxPoint x="799" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wa3V5i6aUIhUustxlBAo-3" value="Division" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="676" y="162" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
   <diagram name="Page-1" id="gNxw8MddvVBNjZTbIHWo">
-    <mxGraphModel dx="1206" dy="1239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-9" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="89" y="390" width="320" height="70" as="geometry" />
+          <mxGeometry x="89" y="430" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-10" value="" style="endArrow=none;html=1;rounded=0;" parent="H3SU6zbXUFuWfZ92cG2d-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,45 +72,48 @@
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-26" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="506" as="sourcePoint" />
-            <mxPoint x="411" y="506" as="targetPoint" />
+            <mxPoint x="251" y="546" as="sourcePoint" />
+            <mxPoint x="411" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-28" value="2nd Place" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="335" width="90" height="30" as="geometry" />
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-32" value="2nd - Loser Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="279" y="331" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-29" value="4th Place" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="506" width="90" height="30" as="geometry" />
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-33" value="4th - Loser Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="279" y="542" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-32" value="Loser Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="305" width="90" height="30" as="geometry" />
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-37" value="1st - Winner Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="279" y="252" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-33" value="Loser Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="476" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-37" value="Winner Race 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="226" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3SU6zbXUFuWfZ92cG2d-38" value="Winner Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279" y="396" width="90" height="30" as="geometry" />
+        <mxCell id="H3SU6zbXUFuWfZ92cG2d-38" value="3rd - Winner Race 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="279" y="462" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-41" value="Bracket Seed 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="190" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="216" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-42" value="Bracket Seed 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="286" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-43" value="Bracket Seed 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="426" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3SU6zbXUFuWfZ92cG2d-44" value="Bracket Seed 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="119" y="430" width="90" height="30" as="geometry" />
+          <mxGeometry x="119" y="496" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQO4sHj1wTvOAAxzs0Sq-1" value="1st Place" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279" y="255" width="90" height="30" as="geometry" />
+        <mxCell id="YYOxxo67NjaTGou5iwbF-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Champion Race&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="150" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQO4sHj1wTvOAAxzs0Sq-2" value="3rd Place" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279" y="426" width="90" height="30" as="geometry" />
+        <mxCell id="YYOxxo67NjaTGou5iwbF-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Consolation Race&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="364" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYOxxo67NjaTGou5iwbF-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="176" as="sourcePoint" />
+            <mxPoint x="409" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYOxxo67NjaTGou5iwbF-4" value="Division" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="171" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
