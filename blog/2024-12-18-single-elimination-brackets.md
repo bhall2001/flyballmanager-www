@@ -9,9 +9,7 @@ tags: [brackets]
 
 It’s been a long time in the making, but I’m thrilled to announce that **Flyball Manager** now includes support for single elimination brackets!
 
-This journey started back in 2020 with a major project: completely re-writing the database layer. That foundational work set the stage for everything that followed, including a critical update to the scheduling engine.
-
-<!-- truncate -->
+This journey started back in 2020 with a major project: completely re-writing the database layer. That foundational work set the stage for everything that followed,<!-- truncate --> including a critical update to the scheduling engine.
 
 ## Why Update the Scheduling Engine?
 
