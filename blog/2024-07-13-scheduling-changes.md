@@ -9,9 +9,7 @@ The release of version 6.x of Flyball Manager brings a significant change to the
 
 Here is a quick guide to getting up to speed with the new scheduling engine.
 
-<!-- truncate -->
-
-Once you are ready to generate a schedule, click on `Schedule` in the sidebar menu.
+Once you are ready to generate a schedule,<!-- truncate --> click on `Schedule` in the sidebar menu.
 
 The Schedule screen displays text detailing the steps needed to generate a schedule.
 
