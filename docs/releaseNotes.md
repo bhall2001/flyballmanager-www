@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.2.2
+
+- fix issue with scheduling combined divisions
+
 ## 6.2.0
 
 - adds single elimination brackets with loser races
