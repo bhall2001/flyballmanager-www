@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.2.4
+
+- This time I really fixed the combined division issue.
+
 ## 6.2.2
 
 - fix issue with scheduling combined divisions
