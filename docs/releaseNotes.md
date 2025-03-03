@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.2.6
+
+- fixed issue where data files could not be double-clicked to be opened
+- returned ability to use return key to tab to next field on scoring screen
+
 ## 6.2.5
 
 - Fix issue with online lineups not matching actual order
