@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.2.8
+
+- fixed issue where breakouts would not light a heat lamp
+- fixed issue where heat lamps where out of sync with active race
+
 ## 6.2.6
 
 - fixed issue where data files could not be double-clicked to be opened
