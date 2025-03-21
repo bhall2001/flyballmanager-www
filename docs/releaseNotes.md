@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 6.3.0
+
+- adds additional round for round robins allowing for 3 format variations
+- fixes issues with Single Elimination races not showing winner/loser race numbers
+
 ## 6.2.8
 
 - fixed issue where breakouts would not light a heat lamp
