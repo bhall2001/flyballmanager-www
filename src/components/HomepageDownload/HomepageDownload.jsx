@@ -15,9 +15,8 @@ export default function HomepageDownload() {
         </p>
         <p>
           Thanks so much for your patience! Once everything is fixed, the
-          download links will be back right here.
+          download links will be back right here. Last updated: 2025-07-28
         </p>
-        <p>Last updated: 2025-07-28</p>
         {/* <p>v6.3.0</p>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
