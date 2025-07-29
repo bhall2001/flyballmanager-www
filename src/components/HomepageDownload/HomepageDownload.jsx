@@ -7,13 +7,16 @@ export default function HomepageDownload() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className='container'>
         <h1 className='hero__subtitle'>Download Flyball Manager</h1>
-        <h2>
-          A bug has been reported that has not be experienced before. The issue
-          is significant enough that I must prohibit downloading the application
-          until I am able to replicate the issue and get it fixed. When the
-          issue is resolved the download links will re-appear here. (last
-          updated: 2025-07-28 by Bob Hall)
-        </h2>
+        <p>
+          🚧 Heads up! We've discovered a bug that we haven't seen before, and
+          it’s causing some issues. To keep things running smoothly for
+          everyone, we've temporarily disabled the download links while we work
+          on identifying and resolving it.
+        </p>
+        <p>
+          Thanks so much for your patience! Once everything is fixed, the
+          download links will be back right here.
+        </p>
         {/* <p>v6.3.0</p>
         <div className="buttons_src-components-HomepageDownload-styles-module">
           <a
