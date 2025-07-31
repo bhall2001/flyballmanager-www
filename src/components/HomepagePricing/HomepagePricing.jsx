@@ -6,14 +6,14 @@ function Pricing() {
     <>
       <section>
         <div style={{ width: '100%', textAlign: 'center' }}>
-          <div className="container">
-            <div className="row">
+          <div className='container'>
+            <div className='row'>
               <div className={clsx('col col--12')}>
-                <ul className="price">
-                  <li className="header" style={{ backgroundColor: '#2e8555' }}>
+                <ul className='price'>
+                  <li className='header' style={{ backgroundColor: '#2e8555' }}>
                     Pricing
                   </li>
-                  <li className="grey">$10 per ring per tournament day**</li>
+                  <li className='grey'>$15 per ring per tournament day**</li>
                   <li>
                     Generate Schedule including single elimination brackets
                   </li>
@@ -34,13 +34,13 @@ function Pricing() {
             </div>
           </div>
         </div>
-        <div className="container">
+        <div className='container'>
           <p></p>
           <p>
             **The fee is based on the number of rings and days in the sanctioned
             tournament. You can use the app on multiple devices, both before and
             after the event, at no extra charge. For example, a two-day
-            tournament with one ring costs only $20. This fee includes
+            tournament with one ring costs only $30. This fee includes
             everything, like access to the online OnDeck and real-time results
             at ondeckmanager.com. Payments are securely processed via Stripe in
             app at the <code>Window {'>'} Payments</code> menu.
