@@ -41,6 +41,7 @@ const sidebars = {
       collapsed: false,
       items: ['brackets', 'bracket-schedules'],
     },
+    'settings',
     'faq',
     'releaseNotes',
     'issues',
