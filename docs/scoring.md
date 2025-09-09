@@ -27,6 +27,15 @@ Swap the C.2 forms to bring the right lane form on top. Enter the dogs for the r
 
 The race has been successfully scored and verified.
 
+### Tournament Points
+
+Tournament points are configured at the Division level during tournament setup. Points are awarded based on two criteria:
+
+1. Individual heat victories
+2. Overall race winner
+
+Race points are awarded to the team that wins the majority of heats in a race. In cases where teams have an equal number of heat wins, the race is considered a tie and teams are both awarded the number of points configured for a tie.
+
 ### Override automatic entries
 
 Flyball Manager makes a good attempt at determining wins/loss/ties automatically. There are times that this data must be adjusted based on data entry errors or factors that may change the results after they are entered.
