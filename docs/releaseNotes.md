@@ -7,6 +7,14 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.0.0
+
+- updates how data is fetched from NAFA for clubs and dogs\
+- removes updating tournament data from NAFA. It now must the manually entered
+- change scoring for 3 out of 5 format. Now assigns race point using best of 5 logic based on feedback from users
+- fixes issue where manually entered dog information was not saved
+- fixes issue where losing network connection did not always change status in app
+
 ## 6.3.0
 
 - adds additional round for round robins allowing for 3 format variations
