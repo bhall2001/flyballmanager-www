@@ -7,10 +7,30 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.0.1
+
+- fix issue where tournament points were reset to 0
+- adds additional data to support new online ring race displays
+
+  Heat Lamp Display Updates:
+
+  The online ring race displays now use the same light patterns as real-world heat
+  lamps. However, the Flyball Manager ring side display hasn't been updated yet and
+  still shows the original patterns.
+
+  Temporary Solution for Ring Side Displays:
+
+  1. Open a web browser on your scoring machine
+  2. Navigate to the tournament screen
+  3. Click the "🏁 Race" button in the lower right of the OnDeck panel
+  4. Display this online ring race display for improved heat lamp patterns
+
+  This provides a consistent heat lamp experience until the Flyball Manager display is updated.
+
 ## 7.0.0
 
 - updates how data is fetched from NAFA for clubs and dogs
-- removes updating tournament data from NAFA. It now must the manually entered
+- removes updating tournament data from NAFA. Data must be manually entered
 - change scoring for 3 out of 5 format. Now assigns race point using best of 5 logic based on feedback from users
 - fixes issue where manually entered dog information was not saved
 - fixes issue where losing network connection did not always change status in app
