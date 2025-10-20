@@ -1,9 +1,3 @@
----
-id: serena-onboarding
-title: Serena MCP Server Onboarding
-sidebar_label: Serena MCP Setup
----
-
 # Serena MCP Server Onboarding
 
 This guide will help you onboard and use the Serena MCP server with this repository.
@@ -29,7 +23,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### 2. Configuration File
 
-**Status**: ✅ Already configured in [.mcp.json](/.mcp.json)
+**Status**: ✅ Already configured in [.mcp.json](../.mcp.json)
 
 The configuration file is set up with:
 - Command: `uvx`
@@ -127,7 +121,7 @@ When making code changes, Serena helps Claude Code:
 
 ### Current Setup
 
-From [.mcp.json](/.mcp.json):
+From [.mcp.json](../.mcp.json):
 ```json
 {
   "mcpServers": {

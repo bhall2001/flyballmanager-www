@@ -109,7 +109,7 @@ This repository uses the **Serena MCP server** for enhanced semantic code unders
 **Quick Start**:
 - Restart Claude Code - Serena auto-starts (uv already installed)
 - Dashboard: http://localhost:24282/dashboard/index.html
-- See [SERENA.md](SERENA.md) for quick reference or [docs/serena-onboarding.md](docs/serena-onboarding.md) for full guide
+- See [SERENA.md](SERENA.md) for quick reference or [.claude/serena-onboarding.md](.claude/serena-onboarding.md) for full guide
 
 **What it provides**:
 - Semantic search and code navigation (LSP-powered)

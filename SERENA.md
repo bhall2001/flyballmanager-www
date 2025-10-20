@@ -48,7 +48,7 @@ uvx --from git+https://github.com/oraios/serena serena --help
 
 ## Resources
 
-- [Full Onboarding Guide](docs/serena-onboarding.md)
+- [Full Onboarding Guide](.claude/serena-onboarding.md)
 - [Serena GitHub](https://github.com/oraios/serena)
 - [Dashboard](http://localhost:24282/dashboard/index.html) (when running)
 
