@@ -8,12 +8,12 @@ export default function Features() {
   return (
     <>
       <section className={styles.features}>
-        <div className="container">
-          <div className="row">
+        <div className='container'>
+          <div className='row'>
             <div className={clsx('col col--1')}></div>
             <div className={clsx('col col--5')}>
-              <div className="text--center padding-horiz--md">
-                <div className="text--left padding-top--xl">
+              <div className='text--center padding-horiz--md'>
+                <div className='text--left padding-top--xl'>
                   <ul>
                     <li>
                       Easily import tournament entries using NAFA's CanAm format
@@ -35,7 +35,16 @@ export default function Features() {
                       Flyball Geek
                     </li>
                     <li>
-                      On deck includes <b>realtime</b> heat lamps
+                      Paperless scoring -- no more printing C.2 forms (in
+                      development)
+                    </li>
+                    <li>
+                      Digital Dance Card to keep track of races you care about
+                      (in development)
+                    </li>
+                    <li>
+                      Push notifications when Dance Card race moves to "in the
+                      hole" (in development)
                     </li>
                     <li>
                       Web based results and accumulated points at
@@ -61,12 +70,12 @@ export default function Features() {
             </div>
 
             <div className={clsx('col col--5')}>
-              <div className="text--center ">
+              <div className='text--center '>
                 <img
                   alt={translate({ message: 'screens' })}
                   src={useBaseUrl('/img/home/screens.svg')}
-                  width="400"
-                  height="400"
+                  width='400'
+                  height='400'
                 />
               </div>
             </div>
@@ -75,8 +84,8 @@ export default function Features() {
       </section>
 
       <section>
-        <div className="container">
-          <div className="row">
+        <div className='container'>
+          <div className='row'>
             <div className={clsx('col col--2')}></div>
             <div
               style={{ marginTop: '-30px', marginBottom: '20px' }}
