@@ -7,6 +7,13 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.1.0
+
+- adds DOG HEIGHTS from NAFA data feed (YIPPEE!)
+- updates to database to support new ondeckmanager.com features
+- heat lamps now match real world light patterns/colors
+- fix issue when creating a new tournament
+
 ## 7.0.1
 
 - fix issue where tournament points were reset to 0
