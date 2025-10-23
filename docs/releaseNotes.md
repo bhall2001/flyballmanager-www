@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.1.1
+
+- fix issue with NAFA dogs not loading correctly
+
 ## 7.1.0
 
 - adds DOG HEIGHTS from NAFA data feed (YIPPEE!)
