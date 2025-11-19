@@ -7,6 +7,12 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.2.0
+
+- data sync enhancements
+- adds ability to correct online active race by going back 1 race
+- Race Display menu now links to ondeckmanager.com race display for tournament
+
 ## 7.1.1
 
 - fix issue with NAFA dogs not loading correctly
