@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.3.0
+
+- additional data sync enhancements
+
 ## 7.2.0
 
 - data sync enhancements
