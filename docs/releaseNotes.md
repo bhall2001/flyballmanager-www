@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.4.0
+
+- Fix issues with syncing race results
+
 ## 7.3.0
 
 - additional data sync enhancements
