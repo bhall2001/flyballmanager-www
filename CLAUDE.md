@@ -10,7 +10,7 @@ This is the documentation website for Flyball Manager, a flyball tournament mana
 - Static site generator using React and MDX
 - Automatic deployment to Netlify on commits to main branch
 - Package manager: pnpm (see pnpm-lock.yaml)
-- Node version: 16.14+ (specified in .nvmrc and package.json)
+- Node version: 22.19.0+ (specified in .nvmrc and package.json)
 
 ## Development Commands
 

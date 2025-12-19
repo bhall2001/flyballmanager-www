@@ -60,7 +60,7 @@ export default function Features() {
                     <li>Generates NAFA scoring file</li>
                     <li>
                       Internet connection not required
-                      <superscript>*</superscript>
+                      <sup>*</sup>
                     </li>
                     <li>New features added all the time!</li>
                     <li>macOS and Windows</li>
