@@ -2,8 +2,8 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const CURRENT_VERSION = '7.4.0';
-const RELEASE_DATE = '19 Dec 2025';
+const CURRENT_VERSION = '7.5.0';
+const RELEASE_DATE = '27 Dec 2025';
 
 const downloads = [
   {
