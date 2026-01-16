@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.5.1
+
+- fix issues with syncing
+
 ## 7.5.0
 
 - new sync algorithm to reduce duplicates and better detect when data needs to be sync'd with online database
