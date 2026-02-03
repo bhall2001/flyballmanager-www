@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Manager...
 
+## 7.6.0
+
+- tweaks to syncing
+
 ## 7.5.1
 
 - fix issues with syncing
@@ -52,7 +56,6 @@ All notable changes to Flyball Manager...
   still shows the original patterns.
 
   Temporary Solution for Ring Side Displays:
-
   1. Open a web browser on your scoring machine
   2. Navigate to the tournament screen
   3. Click the "🏁 Race" button in the lower right of the OnDeck panel
